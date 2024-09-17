@@ -8,7 +8,9 @@ He trabajado en distintas multinacionales del sector, creando MoureDev en 2015 p
 
 Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes sociales, compaginándolo con mi actividad como freelance. Nuestra comunidad de habla hispana sobre desarrollo de software es una de las más grandes a nivel mundial (con cerca de dos millones de seguidores entre las distintas redes). Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
 
-##Tecnologias
+## Tecnologias
+
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Logo de Python" width="300">
 
 <!--
 **Walt3rMel0n/Walt3rMel0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
