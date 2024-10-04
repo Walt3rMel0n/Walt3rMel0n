@@ -14,17 +14,9 @@ A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes 
 <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="visual Logo" width="100"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git Logo" width="100"/>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github Logo" width="100"/>
-<img src="https://learn.microsoft.com/es-es/dotnet/media/logo_csharp.png" alt="github Logo" width="100"/>
-
-
-![SQL Server Logo](https://upload.wikimedia.org/wikipedia/en/6/6f/Microsoft_SQL_Server_logo.png)
-![Visual Studio Code Logo](https://code.visualstudio.com/assets/apple-touch-icon.png)
-![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Csharp_Logo.png)
-![ASP.NET Logo](https://dotnet.microsoft.com/static/images/logo.png)
-![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-![Visual Studio Logo](https://visualstudio.microsoft.com/wp-content/uploads/2021/06/brand-visualstudio-dark.png)
-
+<img src="https://learn.microsoft.com/es-es/dotnet/media/logo_csharp.png" alt="c Logo" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/684px-Microsoft_.NET_logo.svg.png" alt="asp Logo" width="100"/>
+<img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="c Logo" width="100"/>
 
 
 
