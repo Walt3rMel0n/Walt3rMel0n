@@ -7,10 +7,19 @@ Con un gran interés en la tecnología y la resolución de problemas. Soy un fas
 
 A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes proyectos que me han permitido adquirir habilidades valiosas en la creación de aplicaciones y la gestión de bases de datos.
 
-## Tecnologías
+## Mis tecnologías
 
 <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python Logo" width="100"/>
 <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django Logo" width="100"/>
+
+
+![SQL Server Logo](https://upload.wikimedia.org/wikipedia/en/6/6f/Microsoft_SQL_Server_logo.png)
+![Visual Studio Code Logo](https://code.visualstudio.com/assets/apple-touch-icon.png)
+![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Csharp_Logo.png)
+![ASP.NET Logo](https://dotnet.microsoft.com/static/images/logo.png)
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Visual Studio Logo](https://visualstudio.microsoft.com/wp-content/uploads/2021/06/brand-visualstudio-dark.png)
 
 # Mis Proyectos
 
