@@ -11,8 +11,13 @@ A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes 
 
 ![Django Logo](https://www.djangoproject.com/m/img/logos/django-logo-negative.png)
 ![Python Logo](https://www.python.org/community/logos/python-logo.png)
+![Python Logo](./assets/python-logo.png)
+![Django Logo](./assets/django-logo.png)
+<img src="https://www.python.org/community/logos/python-logo.png" alt="Python Logo" width="100"/>
+<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django Logo" width="100"/>
 
-[![Python]
+
+
 [![django](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=djangoe&logoColor=white&labelColor=101010)](https://youtube.com/@mouredevtv)
 </br>
 [![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
