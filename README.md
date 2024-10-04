@@ -3,7 +3,9 @@
 
 
 Soy un apasionado técnico informático 
-Con un gran interés en la tecnología y la resolución de problemas. Soy un fascinado de las computadoras y todo lo relacionado con ellas. He dedicado mucho tiempo a aprender sobre software y redes, y he explorado diferentes tecnologías  gracias a mi formación como técnico universitario y a través de cursos en línea y proyectos personales. A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes proyectos que me han permitido adquirir habilidades valiosas en la creación de aplicaciones y la gestión de bases de datos.
+Con un gran interés en la tecnología y la resolución de problemas. Soy un fascinado de las computadoras y todo lo relacionado con ellas. He dedicado mucho tiempo a aprender sobre software y redes, y he explorado diferentes tecnologías  gracias a mi formación como técnico universitario y a través de cursos en línea y proyectos personales. 
+
+A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes proyectos que me han permitido adquirir habilidades valiosas en la creación de aplicaciones y la gestión de bases de datos.
 
 ## Tecnologías
 
