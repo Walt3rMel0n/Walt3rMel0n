@@ -10,10 +10,11 @@ A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes 
 ## Mis tecnologías
 
 <p>
-<img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python Logo" width="100"/>
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django Logo" width="100"/>
 <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="visual Logo" width="70"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git Logo" width="70"/>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github Logo" width="70"/>
 <img src="https://learn.microsoft.com/es-es/dotnet/media/logo_csharp.png" alt="c Logo" width="70"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/684px-Microsoft_.NET_logo.svg.png" alt="asp Logo" width="70"/>
@@ -29,7 +30,7 @@ A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes 
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
