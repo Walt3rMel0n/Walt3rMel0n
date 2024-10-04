@@ -9,7 +9,7 @@ A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes 
 
 ## Tecnologías
 
-<img src="[https://www.python.org/community/logos/python-logo.png](https://www.python.org/static/img/python-logo@2x.png)" alt="Python Logo" width="100"/>
+<img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python Logo" width="100"/>
 <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django Logo" width="100"/>
 
 
