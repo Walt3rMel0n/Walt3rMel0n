@@ -9,6 +9,8 @@ A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes 
 
 ## Tecnologías
 
+![Django Logo](https://www.djangoproject.com/m/img/logos/django-logo-negative.png)
+![Python Logo](https://www.python.org/community/logos/python-logo.png)
 
 [![Python]
 [![django](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=djangoe&logoColor=white&labelColor=101010)](https://youtube.com/@mouredevtv)
