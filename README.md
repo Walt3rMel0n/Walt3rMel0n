@@ -11,11 +11,12 @@ A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes 
 
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django Logo" width="70"/>
+<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django Logo" width="66"/>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-<img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="visual Logo" width="50"/>
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git Logo" width="50"/>
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github Logo" width="70"/>
+<img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="visual Logo" width="40"/>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git Logo" width="40"/>
+
+</br>
 Y alguna más...
 <!--
 **Walt3rMel0n/Walt3rMel0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
