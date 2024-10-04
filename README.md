@@ -14,6 +14,7 @@ A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes 
 <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="visual Logo" width="100"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git Logo" width="100"/>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github Logo" width="100"/>
+<img src="https://learn.microsoft.com/es-es/dotnet/media/logo_csharp.png" alt="github Logo" width="100"/>
 
 
 ![SQL Server Logo](https://upload.wikimedia.org/wikipedia/en/6/6f/Microsoft_SQL_Server_logo.png)
