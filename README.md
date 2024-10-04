@@ -9,7 +9,7 @@ A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes 
 
 ## Mis tecnologías
 
-<p>
+
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django Logo" width="100"/>
 <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="visual Logo" width="70"/>
@@ -19,7 +19,7 @@ A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes 
 <img src="https://learn.microsoft.com/es-es/dotnet/media/logo_csharp.png" alt="c Logo" width="70"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/684px-Microsoft_.NET_logo.svg.png" alt="asp Logo" width="70"/>
 <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="c Logo" width="70"/>
-</p>
+
 
 ## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
