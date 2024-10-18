@@ -15,8 +15,9 @@ A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes 
 <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="visual Logo" width="29"/>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git Logo" width="29"/>
-![c#logo](https://github.com/user-attachments/assets/1743aa37-18bd-4f2f-a668-7dc5e816a9ef)
+<img src="https://github.com/user-attachments/assets/7584ef35-d869-4cdc-9310-157b12397e3a" alt="visual Logo" width="29"/>
 ![Microsoft_ NET_logo svg](https://github.com/user-attachments/assets/7584ef35-d869-4cdc-9310-157b12397e3a)
+![logoc](https://github.com/user-attachments/assets/1186b485-6a6d-4d9a-aca9-69933e15ed79)
 
 </br>
 Y alguna más...
